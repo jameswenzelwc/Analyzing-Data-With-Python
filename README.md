@@ -3,21 +3,21 @@ edx class on importing, cleaning and analyzing data and building linear and poly
 Syllabus:
 
 Module 1 – Importing Data Sets
-	• Importing Data Sets
-		○ Python Packages for Data Science
-		○ Importing and Exporting Data
-		○ Getting Started Analyzing Data
+	Importing Data Sets
+		 Python Packages for Data Science
+		 Importing and Exporting Data
+		 Getting Started Analyzing Data
 Module 2 – Data Wrangling
-	• Data Wrangling
-		○ Pre-processing Data
-		○ Dealing with missing Values
-		○ Data Formatting
-		○ Data normalization
-		○ Binning
-		○ Turning Categorical Variables into Quantitative Variables
+	Data Wrangling
+		 Pre-processing Data
+		 Dealing with missing Values
+		 Data Formatting
+		 Data normalization
+		 Binning
+		 Turning Categorical Variables into Quantitative Variables
 Module 3 - Exploratory Data Analysis
-	• Exploratory Data Analysis
-		○ Descriptive Statistics
+	 Exploratory Data Analysis
+		 Descriptive Statistics
 		○ GroupBy
 		○ Correlation
 		○ Correlation - Statistics
